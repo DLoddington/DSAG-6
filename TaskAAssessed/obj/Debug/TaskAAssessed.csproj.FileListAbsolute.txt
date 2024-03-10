@@ -1,0 +1,12 @@
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 6\Assessment\TaskAAssessed\bin\Debug\TaskAAssessed.exe.config
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 6\Assessment\TaskAAssessed\bin\Debug\TaskAAssessed.exe
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 6\Assessment\TaskAAssessed\bin\Debug\TaskAAssessed.pdb
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 6\Assessment\TaskAAssessed\obj\Debug\TaskAAssessed.csproj.AssemblyReference.cache
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 6\Assessment\TaskAAssessed\obj\Debug\TaskAAssessed.Forms.AddEdge.resources
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 6\Assessment\TaskAAssessed\obj\Debug\TaskAAssessed.Launch.resources
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 6\Assessment\TaskAAssessed\obj\Debug\TaskAAssessed.Properties.Resources.resources
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 6\Assessment\TaskAAssessed\obj\Debug\TaskAAssessed.csproj.GenerateResource.cache
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 6\Assessment\TaskAAssessed\obj\Debug\TaskAAssessed.csproj.CoreCompileInputs.cache
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 6\Assessment\TaskAAssessed\obj\Debug\TaskAAssessed.exe
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 6\Assessment\TaskAAssessed\obj\Debug\TaskAAssessed.pdb
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 6\Assessment\TaskAAssessed\obj\Debug\TaskAAssessed.Forms.AddNode.resources
